@@ -178,7 +178,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.kolyoum.SettingsFragment", "fragment"
         ]
       }
     ]
