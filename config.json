@@ -1,0 +1,177 @@
+[
+  {
+     "title":"REPLAYS",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+ {
+        "title":"Doc du jour",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgbDcjECZy3vydSP5wLWAcD",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"Capital- EnQ-Exc",
+        "provider":"youtube",
+        "arguments":[
+          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "channel"
+
+        ]
+     },
+	     {
+        "title":"Docu Chaque jour",
+        "provider":"youtube",
+        "arguments":[
+          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
+          "channel"
+
+        ]
+     },
+ {
+        "title":"Zone Intedite",
+        "provider":"youtube",
+        "arguments":[
+          "UCf4cYs4HpO_OOnpaVe8Xflg",
+          "channel"
+
+        ]
+     },
+	        {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "channel"
+
+        ]
+      },
+	         {
+        "title":"Enquête exclusive",
+        "provider":"youtube",
+        "arguments":[
+          "PLZcIHWq9jlNmBdcPMds6HiKA6ZlAUvEAy",
+          "playlist"
+
+        ]
+      },
+	       {
+        "title":"bref.",
+        "provider":"youtube",
+        "arguments":[
+          "UCWxt-Sphj4wcAoaIfhsALRg",
+          "channel"
+
+        ]
+      },
+	      {
+        "title":"Envoyé spécial",
+        "provider":"youtube",
+        "arguments":[
+          "UCCauEjHzPXxGer8af3u4x5g",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"REPORTERS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
+	           {
+        "title":"FOCUS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
+	    
+      {
+        "title":"Docu FR",
+        "provider":"youtube",
+        "arguments":[
+          "UC9hrtTMXVrZg66BTp6VdXgA",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":"Documentaires",
+        "provider":"youtube",
+        "arguments":[
+          "UCzhQvyhZ3M9nKFE3jrrqGsQ",
+          "channel"
+
+        ]
+      },
+	  	  	   {
+        "title":"Docus",
+        "provider":"youtube",
+        "arguments":[
+          "UCj0Fef2NUqFw6Hx5rLwDxyw",
+          "channel"
+
+        ]
+      }
+	  ,
+	  	  	   {
+        "title":"lezzapeur",
+        "provider":"youtube",
+        "arguments":[
+          "UCfwUl7ryupeNn43XKOZLjKg",
+          "channel"
+
+        ]
+      }
+	  	  ,
+	  	  	   {
+        "title":"Docu2",
+        "provider":"youtube",
+        "arguments":[
+          "UCIxIJWyjXPi4c8IxRZIqnwg",
+          "channel"
+
+        ]
+      }
+	  	  ,
+	  	  	   {
+        "title":"Doc&Doc",
+        "provider":"youtube",
+        "arguments":[
+          "UCTuEcje9UPP5qpnCkNcbX6w",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+	 
+ 
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
