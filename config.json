@@ -1,23 +1,5 @@
 [
-	{
-    "title":"Infos",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-
-
-      {
-        "title":"WC 2018",
-        "provider":"wordpress",
-        "arguments":[
-         "https://www.supermama.me/wp-json/wp/v2/",
-          "79"
-        ]
-      }
-
-    ]
-  },
+	
 	
   {
      "title":"فيديوهات",
