@@ -171,7 +171,7 @@
   {
     "title":"عن التطبيق",
     "drawable":"",
-    "submenu":"autres",
+    "submenu":"التطبيق",
     "iap":false,
     "tabs":[
       {
