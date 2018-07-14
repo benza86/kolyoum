@@ -1,159 +1,168 @@
 [
   {
-     "title":"REPLAYS",
+     "title":"فيديوهات",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
  {
-        "title":"Doc du jour",
+        "title":"نصائح تغذية لك ولطفلك",
         "provider":"youtube",
         "arguments":[
-          "PLpuTkbiVtmpgbDcjECZy3vydSP5wLWAcD",
+          "PLpTDv5bG6vcvSHm76qBAEn76S8IEa4KZB",
           "playlist"
 
         ]
      },
 	 {
-        "title":"Capital- EnQ-Exc",
+        "title":"نصائح لجمالك",
         "provider":"youtube",
         "arguments":[
-          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
-          "channel"
+          "PLpTDv5bG6vctWpESd_xm4j51h_rIw9yEu",
+          "playlist"
 
         ]
      },
 	     {
-        "title":"Docu Chaque jour",
+        "title":"أم العيال",
         "provider":"youtube",
         "arguments":[
-          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
-          "channel"
+          "PLpTDv5bG6vcs2KtqUvy3qJ_4OncgBj6A7",
+          "playlist"
 
         ]
      },
  {
-        "title":"Zone Intedite",
+        "title":"البيت",
         "provider":"youtube",
         "arguments":[
-          "UCf4cYs4HpO_OOnpaVe8Xflg",
-          "channel"
+          "PLpTDv5bG6vcv0_LEXra0WO4JCEYW4eLhD",
+          "playlist"
 
         ]
      },
 	        {
-        "title":"TCF",
+        "title":"مع الشيف نجلاء",
         "provider":"youtube",
         "arguments":[
-          "UC_4WpPcSfpxsSqA6hNpqJbg",
-          "channel"
+          "PLpTDv5bG6vcsf24Ltv2irlRyHM-QnA3xZ",
+          "playlist"
 
         ]
       },
 	         {
-        "title":"Enquête exclusive",
+        "title":"منار في المطبخ",
         "provider":"youtube",
         "arguments":[
-          "PLZcIHWq9jlNmBdcPMds6HiKA6ZlAUvEAy",
+          "PLpTDv5bG6vctfIrAreK46Fcub629shWYC",
           "playlist"
 
         ]
       },
 	       {
-        "title":"bref.",
+        "title":"مع الشيف ديانا",
         "provider":"youtube",
         "arguments":[
-          "UCWxt-Sphj4wcAoaIfhsALRg",
-          "channel"
+          "PLpTDv5bG6vcvlJjIgTlz50FoGbH3EoprW",
+          "playlist"
 
         ]
       },
 	      {
-        "title":"Envoyé spécial",
+        "title":"حلويات مع الشيف نجلاء",
         "provider":"youtube",
         "arguments":[
-          "UCCauEjHzPXxGer8af3u4x5g",
-          "channel"
+          "PLpTDv5bG6vcvw4Vbn7i3yuselzq2cv2TY",
+          "playlist"
 
         ]
       },
 	        {
-        "title":"REPORTERS",
+        "title":"حلويات شرقية",
         "provider":"youtube",
         "arguments":[
-          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "PLpTDv5bG6vct6ELjyi5O7zbqzoi1ac2HD",
           "playlist"
 
         ]
       },
 	           {
-        "title":"FOCUS",
+        "title":"علي طريقتي",
         "provider":"youtube",
         "arguments":[
-          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "PLpTDv5bG6vcskmW6iEZYt-kRGUgjqipNF",
           "playlist"
 
         ]
       },
 	    
       {
-        "title":"Docu FR",
+        "title":"عيادة ",
         "provider":"youtube",
         "arguments":[
-          "UC9hrtTMXVrZg66BTp6VdXgA",
-          "channel"
+          "PLpTDv5bG6vctCikIhvXsMhKLpVXxGsJm_",
+          "playlist"
 
         ]
       },
 	    {
-        "title":"Documentaires",
+        "title":"ألعاب لتنمية مهارات الصغار",
         "provider":"youtube",
         "arguments":[
-          "UCzhQvyhZ3M9nKFE3jrrqGsQ",
-          "channel"
+          "PLpTDv5bG6vcthBKo3nhHKKV3KyOM2R3-6",
+          "playlist"
 
         ]
       },
 	  	  	   {
-        "title":"Docus",
+        "title":"موضة المحجبات",
         "provider":"youtube",
         "arguments":[
-          "UCj0Fef2NUqFw6Hx5rLwDxyw",
-          "channel"
+          "PLpTDv5bG6vcvdyowCVmqE8qQSgcoOfQdy",
+          "playlist"
 
         ]
       }
 	  ,
 	  	  	   {
-        "title":"lezzapeur",
+        "title":"روج وماسكرا",
         "provider":"youtube",
         "arguments":[
-          "UCfwUl7ryupeNn43XKOZLjKg",
-          "channel"
+          "PLpTDv5bG6vctsb5LbN7b6TyL4nj8XQnam",
+          "playlist"
 
         ]
       }
 	  	  ,
 	  	  	   {
-        "title":"Docu2",
+        "title":"فاشون",
         "provider":"youtube",
         "arguments":[
-          "UCIxIJWyjXPi4c8IxRZIqnwg",
-          "channel"
+          "PLpTDv5bG6vcvEO9r4_31_7w0QEJN65YkI",
+          "playlist"
 
         ]
       }
 	  	  ,
 	  	  	   {
-        "title":"Doc&Doc",
+        "title":"جمالك",
         "provider":"youtube",
         "arguments":[
-          "UCTuEcje9UPP5qpnCkNcbX6w",
-          "channel"
+          "PLpTDv5bG6vctGi7yesibNctAL-ZVZdYlf",
+          "playlist"
 
         ]
       }
-   
+     	  ,
+	  	  	   {
+        "title":"Lifestyle Show | لايف ستايل",
+        "provider":"youtube",
+        "arguments":[
+          "PLpTDv5bG6vcsQNgix7EBdKdWWbYN5PHO9",
+          "playlist"
+
+        ]
+      }
   ]
   }
   ,
