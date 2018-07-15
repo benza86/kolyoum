@@ -1,33 +1,20 @@
 [
 	
-{
-    "title":" فيديوهات",
+  {
+    "title":"فيديو لك",
     "drawable":"",
-    "submenu":"",
+    "submenu":"هنا",
     "iap":false,
     "tabs":[
       {
-        "title":"الاول,
+        "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.supermama.me/"
-
-
+          "https://www.supermama.me"
         ]
-      },
-      {
-        "title":"الثاني",
-        "provider":"webview",
-        "arguments":[
-          "https://www.supermama.me/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B1%D9%8A%D8%AC%D9%8A%D9%85"  ]
-      },
-      {
-        "title":"اثالث",
-        "provider":"webview",
-        "arguments":[
-          "https://www.supermama.me/%D8%A3%D8%B7%D9%81%D8%A7%D9%84"  ]
       }
     ]
+
   },
 	 
  
