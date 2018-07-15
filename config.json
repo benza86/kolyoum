@@ -1,173 +1,34 @@
 [
 	
-	
-  {
-     "title":"فيديوهات",
+{
+    "title":" فيديوهات",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
- {
-        "title":"نصائح تغذية لك ولطفلك",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcvSHm76qBAEn76S8IEa4KZB",
-          "playlist"
-
-        ]
-     },
-	 {
-        "title":"نصائح لجمالك",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vctWpESd_xm4j51h_rIw9yEu",
-          "playlist"
-
-        ]
-     },
-	     {
-        "title":"أم العيال",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcs2KtqUvy3qJ_4OncgBj6A7",
-          "playlist"
-
-        ]
-     },
- {
-        "title":"البيت",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcv0_LEXra0WO4JCEYW4eLhD",
-          "playlist"
-
-        ]
-     },
-	        {
-        "title":"مع الشيف نجلاء",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcsf24Ltv2irlRyHM-QnA3xZ",
-          "playlist"
-
-        ]
-      },
-	         {
-        "title":"منار في المطبخ",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vctfIrAreK46Fcub629shWYC",
-          "playlist"
-
-        ]
-      },
-	       {
-        "title":"مع الشيف ديانا",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcvlJjIgTlz50FoGbH3EoprW",
-          "playlist"
-
-        ]
-      },
-	      {
-        "title":"حلويات مع الشيف نجلاء",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcvw4Vbn7i3yuselzq2cv2TY",
-          "playlist"
-
-        ]
-      },
-	        {
-        "title":"حلويات شرقية",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vct6ELjyi5O7zbqzoi1ac2HD",
-          "playlist"
-
-        ]
-      },
-	           {
-        "title":"علي طريقتي",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcskmW6iEZYt-kRGUgjqipNF",
-          "playlist"
-
-        ]
-      },
-	    
       {
-        "title":"عيادة ",
-        "provider":"youtube",
+        "title":"الاول,
+        "provider":"webview",
         "arguments":[
-          "PLpTDv5bG6vctCikIhvXsMhKLpVXxGsJm_",
-          "playlist"
+          "https://www.supermama.me/"
+
 
         ]
       },
-	    {
-        "title":"ألعاب لتنمية مهارات الصغار",
-        "provider":"youtube",
+      {
+        "title":"الثاني",
+        "provider":"webview",
         "arguments":[
-          "PLpTDv5bG6vcthBKo3nhHKKV3KyOM2R3-6",
-          "playlist"
-
-        ]
+          "https://www.supermama.me/%D8%B5%D8%AD%D8%A9-%D9%88%D8%B1%D9%8A%D8%AC%D9%8A%D9%85"  ]
       },
-	  	  	   {
-        "title":"موضة المحجبات",
-        "provider":"youtube",
+      {
+        "title":"اثالث",
+        "provider":"webview",
         "arguments":[
-          "PLpTDv5bG6vcvdyowCVmqE8qQSgcoOfQdy",
-          "playlist"
-
-        ]
+          "https://www.supermama.me/%D8%A3%D8%B7%D9%81%D8%A7%D9%84"  ]
       }
-	  ,
-	  	  	   {
-        "title":"روج وماسكرا",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vctsb5LbN7b6TyL4nj8XQnam",
-          "playlist"
-
-        ]
-      }
-	  	  ,
-	  	  	   {
-        "title":"فاشون",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcvEO9r4_31_7w0QEJN65YkI",
-          "playlist"
-
-        ]
-      }
-	  	  ,
-	  	  	   {
-        "title":"جمالك",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vctGi7yesibNctAL-ZVZdYlf",
-          "playlist"
-
-        ]
-      }
-     	  ,
-	  	  	   {
-        "title":"Lifestyle Show | لايف ستايل",
-        "provider":"youtube",
-        "arguments":[
-          "PLpTDv5bG6vcsQNgix7EBdKdWWbYN5PHO9",
-          "playlist"
-
-        ]
-      }
-  ]
-  }
-  ,
+    ]
+  },
 	 
  
   {
