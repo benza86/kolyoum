@@ -168,7 +168,82 @@
   ]
   }
   ,
-	 
+{
+     "title":"أغاني الأطفال",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+	     {
+        "title":"أغاني طيور بيبي",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRtelb5t2YO8dyOpLDjcG94z",
+          "playlist"
+
+        ]
+      },
+	    
+ {
+        "title":"جسم الانسان كلمات عربي - إنجليزي ",
+        "provider":"youtube", 
+        "arguments":[
+          "PLLGPyoyoXYRsl3uNOPDe9IjpoJggUfj1S",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"كلمات عربي - انجليزي حيوانات",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRtLj7k8s188Tf_cwCA5MKP7",
+          "playlist"
+
+        ]
+     },
+	     {
+        "title":"اغاني انجليزية للاطفال",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRvbMStkjVG4xSHxlspB6j5-",
+          "playlist"
+
+        ]
+     },
+ {
+        "title":"طيور بيبي - بدون إيقاع",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRvnTviCBaSzilYAgz8IyJok",
+          "playlist"
+
+        ]
+     },
+	       
+	         {
+        "title":"أغاني بيبي",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRt5iZPhkZM-1FLSUB-u9zD5",
+          "playlist"
+
+        ]
+      },
+	       {
+        "title":"مفاجآت بيبي",
+        "provider":"youtube",
+        "arguments":[
+          "PLLGPyoyoXYRvlzrLMiEdJ9Q9fn2eHlTz6",
+          "playlist"
+
+        ]
+      }
+	     
+  ]
+  }
+  ,
+	 	 
  
   {
     "title":"عن التطبيق",
